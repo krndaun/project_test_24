@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181817627578",
+    "project_id": "pm-nesysworks",
+    "storage_bucket": "pm-nesysworks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181817627578:android:2085309a0ea7e111540383",
+        "android_client_info": {
+          "package_name": "kr.plinemotors.nesysworks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAAHQbRMuybLU0FZ1Tig6jb4JWsr-uDq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
